@@ -1,0 +1,96 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to F:/Documentos David/Universidad/3ero A/Arquitectura de ordenadores/tarea/tercera unidad/trabajo final/EjercicioBitSlice/EjercicioBitSlice/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to F:/Documentos David/Universidad/3ero A/Arquitectura de ordenadores/tarea/tercera unidad/trabajo final/EjercicioBitSlice/EjercicioBitSlice/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Reading design: procesador4bits.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\sumador1bit.vhd" into library work
+Parsing entity <sumador1bit>.
+Parsing architecture <Behavioral> of entity <sumador1bit>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\restador1bit.vhd" into library work
+Parsing entity <restador1bit>.
+Parsing architecture <Behavioral> of entity <restador1bit>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\xor4bits.vhd" into library work
+Parsing entity <xor4bits>.
+Parsing architecture <Behavioral> of entity <xor4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\sumador4bits.vhd" into library work
+Parsing entity <sumador4bits>.
+Parsing architecture <Behavioral> of entity <sumador4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\restador4bits.vhd" into library work
+Parsing entity <restador4bits>.
+Parsing architecture <Behavioral> of entity <restador4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\or4bits.vhd" into library work
+Parsing entity <or4bits>.
+Parsing architecture <Behavioral> of entity <or4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\multiplexor.vhd" into library work
+Parsing entity <multiplexor4bits>.
+Parsing architecture <Behavioral> of entity <multiplexor4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\complemento4bits.vhd" into library work
+Parsing entity <complemento4bits>.
+Parsing architecture <Behavioral> of entity <complemento4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\registro_instrucciones4bits.vhd" into library work
+Parsing entity <registro4bits>.
+Parsing architecture <Behavioral> of entity <registro4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\ram16x4bits.vhd" into library work
+Parsing entity <ram16x4bits>.
+Parsing architecture <Behavioral> of entity <ram16x4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\gen_ciclos_clk.vhd" into library work
+Parsing entity <gen_ciclos_clk>.
+Parsing architecture <Behavioral> of entity <gen_ciclos_clk>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\Contador.vhd" into library work
+Parsing entity <contador>.
+Parsing architecture <Behavioral> of entity <contador>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\alu4bits.vhd" into library work
+Parsing entity <alu4bits>.
+Parsing architecture <Behavioral> of entity <alu4bits>.
+Parsing VHDL file "F:\Documentos David\Universidad\3ero A\Arquitectura de ordenadores\tarea\tercera unidad\trabajo final\EjercicioBitSlice\EjercicioBitSlice\procesador4bits.vhd" into library work
+Parsing entity <procesador4bits>.
+Parsing architecture <Behavioral> of entity <procesador4bits>.
+
+
+Total REAL time to Xst completion: 9.00 secs
+Total CPU time to Xst completion: 8.60 secs
+ 
+--> 
+
+Total memory usage is 4495068 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

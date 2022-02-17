@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/Contador.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/alu4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/complemento4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/display_decod7s_contador.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/gen_ciclos_clk.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/multiplexor.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/or4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/ram16x4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/registro_instrucciones4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/registro_paralelo4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/restador1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/restador4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/sumador1bit.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/sumador4bits.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;/home/samy/Descargas/Instaladores/EjercicioBitSlice/EjercicioBitSlice/xor4bits.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,6 @@
+[Inputs]
+clk
+reset
+[Outputs]
+[BiDir]
+=count[127:0]=

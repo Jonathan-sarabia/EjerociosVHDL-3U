@@ -1,0 +1,1 @@
+vhdtdtfi -prj EjercicioBitSlice -o "F:/Documentos David/Universidad/3ero A/Arquitectura de ordenadores/tarea/tercera unidad/trabajo final/EjercicioBitSlice/EjercicioBitSlice/sumador1bit.vhi" -module sumador1bit -template E:/Programas/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work sumador1bit.vhd 

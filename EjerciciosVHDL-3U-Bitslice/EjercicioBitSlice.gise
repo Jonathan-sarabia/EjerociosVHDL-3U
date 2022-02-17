@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="EjercicioBitSlice.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="Contador.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Contador.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Contador.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="Contador.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Contador.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="Contador.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Contador.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="Contador.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="Contador.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Contador.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Contador.spl"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Contador.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Contador.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Contador.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="Contador.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="Contador.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="Contador.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="Contador.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Contador.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Contador_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="Contador_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Contador_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Contador_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="Contador_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="Contador_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="Contador_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="Contador_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Contador_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Contador_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="alu4bits.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="alu4bits.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="alu4bits.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="alu4bits.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="alu4bits.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="alu4bits.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="alu4bits.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="alu4bits.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="alu4bits_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="alu4bits_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="alu4bits_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="complemento4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="complemento4bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="complemento4bits.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="display_decod7s_contador.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="display_decod7s_contador.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="display_decod7s_contador.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="display_decod7s_contador.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="display_decod7s_contador.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="display_decod7s_contador.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="display_decod7s_contador.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="display_decod7s_contador.xst"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="display_decod7s_contador_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="dos_display7s_juntos.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="dos_display7s_juntos.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="dos_display7s_juntos.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="fa4b.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="fa4b.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="fa4b.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="falb.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="falb.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="falb.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="falb.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="falb.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="falb.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="falb.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="falb.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="falb.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="falb.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="falb.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="falb.ptwx"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="falb.spl"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="falb.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="falb.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="falb.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="falb.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="falb.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="falb.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="falb.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="falb_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="falb_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="falb_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="falb_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="falb_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="falb_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="falb_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="falb_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="falb_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="falb_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="falb_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="falb_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="falb_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="falb_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="gen_ciclos_clk.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="gen_ciclos_clk.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="gen_ciclos_clk.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplexor.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="multiplexor.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="multiplexor.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="multiplexor4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="multiplexor4bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="multiplexor4bits.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="nuevoproyecto.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="nuevoproyecto.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="nuevoproyecto.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="nuevoproyecto.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="nuevoproyecto.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="nuevoproyecto.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="nuevoproyecto.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="nuevoproyecto_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="nuevoproyecto_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="nuevoproyecto_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="or4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="or4bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="or4bits.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="procesador4bits.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="procesador4bits.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="procesador4bits.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="procesador4bits.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="procesador4bits.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="procesador4bits.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="procesador4bits.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="procesador4bits.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="procesador4bits_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="procesador4bits_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="procesador4bits_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ram16x4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ram16x4bits.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="ram16x4bits.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ram16x4bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="registro4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="registro4bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="registro4bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="registro_instrucciones4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="registro_instrucciones4bits.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="registro_instrucciones4bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="registro_paralelo4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="registro_paralelo4bits.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="registro_paralelo4bits.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="registro_paralelo4bits.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="restador1bit.prj"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="restador1bit.spl"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="restador1bit.stx"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="restador1bit.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="restador1bit.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="restador1bit.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="restador4bits.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="restador4bits.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="restador4bits.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="restador4bits.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="restador4bits.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="restador4bits.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="restador4bits.syr"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="restador4bits.vhi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="restador4bits.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="restador4bits_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="restador4bits_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="restador4bits_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador1bit.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="sumador1bit.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="sumador1bit.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="sumador1bit.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="sumador4bits.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sumador4bits.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sumador4bits.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sumador4bits.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="sumador4bits.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sumador4bits.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="sumador4bits.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sumador4bits.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sumador4bits.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sumador4bits.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sumador4bits.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="sumador4bits_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="sumador4bits_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="sumador4bits_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="sumador4bits_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador4bits_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador4bits_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="sumador4bits_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="sumador4bits_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sumador4bits_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="xor4bits.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="xor4bits.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="xor4bits.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="xor4bits.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1644975007" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1644975007">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644975151" xil_pn:in_ck="5992052730904119803" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1644975146">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1644975151" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-9044832904953873877" xil_pn:start_ts="1644975151">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644975151" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="2623569966022418569" xil_pn:start_ts="1644975151">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644975151" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-6636683440338529815" xil_pn:start_ts="1644975151">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1644457798" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1644457798">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-1421342520760109799" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-6636683440338529815" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="6617870691332942971" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529613041491541" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1644972764" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="4404331873496620723" xil_pn:start_ts="1644972764">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1644974444" xil_pn:in_ck="5992052730904119803" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="2662366165982983664" xil_pn:start_ts="1644974427">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputChanged"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1644899814" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-8827383548187292480" xil_pn:start_ts="1644899814">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:name="TRAN_postSynthesisSimModel">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>

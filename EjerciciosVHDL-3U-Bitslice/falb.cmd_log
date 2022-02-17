@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "E:/Documentos/Descargas/JORDY TRABAJOS/INGENEIRA EN COMPUTACION/CICLO 3/ARQUITECTURA DE ORDENADORES/Memoria rma/EjercicioBitSlice/falb.xst" -ofn "E:/Documentos/Descargas/JORDY TRABAJOS/INGENEIRA EN COMPUTACION/CICLO 3/ARQUITECTURA DE ORDENADORES/Memoria rma/EjercicioBitSlice/falb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-ftg256-3 "falb.ngc" falb.ngd  
+map -intstyle ise -p xc7a100t-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o falb_map.ncd falb.ngd falb.pcf 
+par -w -intstyle ise -ol high -mt off falb_map.ncd falb.ncd falb.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml falb.twx falb.ncd -o falb.twr falb.pcf 
+vhdtdtfi -lib work falb.vhd -prj EjercicioBitSlice -o falb.spl -module falb -template E:/Programas/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 falb.spl {F:/Documentos David/Universidad/3ero A/Arquitectura de ordenadores/tarea/tercera unidad/trabajo final/EjercicioBitSlice/EjercicioBitSlice/falb.sym} 

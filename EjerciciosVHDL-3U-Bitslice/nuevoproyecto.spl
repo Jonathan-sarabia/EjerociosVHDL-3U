@@ -1,0 +1,6 @@
+[Inputs]
+clk
+rst
+[Outputs]
+=display[6:0]=
+[BiDir]
